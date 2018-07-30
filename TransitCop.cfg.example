@@ -1,0 +1,6 @@
+#
+# Config for TransitCop script
+# Format is;
+# <absolute path> : <days to leave on disk> : <(d)elete or (l)eave empty directories> : <if deleting, days to wait before deleting>
+#
+/PATH/TO/DIR : 30 : l : 0
